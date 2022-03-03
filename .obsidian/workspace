@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "basic/10.memory-distribution-of-java-object.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "basic/10.memory-distribution-of-java-object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,10 @@
   },
   "active": "3547902340b34de7",
   "lastOpenFiles": [
-    "README.md",
+    "basic/10.memory-distribution-of-java-object.md",
     "basic/9.how-jvm-implement-invokedynamic.md",
     "basic/8.how-jvm-implement-invokedynamic.md",
+    "README.md",
     "9.how-jvm-implement-invokedynamic.md",
     "basic/7.how-jvm-implement-reflection.md",
     "3.how-java-load-classes.md",
