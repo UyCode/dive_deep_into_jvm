@@ -17,3 +17,5 @@
 ### [7.  JVM如何实现反射？](basic/7.how-jvm-implement-reflection.md)
 
 ### [8.  JVM如何实现inkovedynamic（上）？](basic/8.how-jvm-implement-invokedynamic.md)
+
+### [9.  JVM如何实现inkovedynamic（下）？](basic/9.how-jvm-implement-invokedynamic.md)

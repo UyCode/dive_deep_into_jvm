@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "c44ff70f9067d2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3547902340b34de7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d453ccf61fb395c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa9b5232ad828108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8de640a82653fc11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d45a6c18635f6e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "539dcaed44056498",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f5fe6da0312f897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1134699a7fa5265b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3547902340b34de7",
+  "lastOpenFiles": [
+    "README.md",
+    "basic/9.how-jvm-implement-invokedynamic.md",
+    "basic/8.how-jvm-implement-invokedynamic.md",
+    "9.how-jvm-implement-invokedynamic.md",
+    "basic/7.how-jvm-implement-reflection.md",
+    "3.how-java-load-classes.md",
+    "basic/3.how-jvm-load-classes.md"
+  ]
+}
