@@ -15,3 +15,5 @@
 ### [6.  JVM如何处理异常？](basic/6.how-jvm-handle-exception.md)
 
 ### [7.  JVM如何实现反射？](basic/7.how-jvm-implement-reflection.md)
+
+### [8.  JVM如何实现inkovedynamic（上）？](basic/8.how-jvm-implement-invokedynamic.md)
