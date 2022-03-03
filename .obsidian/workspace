@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 387
   },
   "right": {
     "id": "539dcaed44056498",
@@ -90,12 +90,14 @@
   "active": "3547902340b34de7",
   "lastOpenFiles": [
     "README.md",
+    "advanced/13.common-tools.md",
+    "basic/13.common-tools.md",
+    "basic/12.garbage-collection.md",
+    "basic/11.garbage-collection.md",
     "basic/10.memory-distribution-of-java-object.md",
     "basic/9.how-jvm-implement-invokedynamic.md",
     "basic/8.how-jvm-implement-invokedynamic.md",
     "9.how-jvm-implement-invokedynamic.md",
-    "basic/7.how-jvm-implement-reflection.md",
-    "3.how-java-load-classes.md",
-    "basic/3.how-jvm-load-classes.md"
+    "basic/7.how-jvm-implement-reflection.md"
   ]
 }

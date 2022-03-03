@@ -1,6 +1,6 @@
-# dive_deep_into_jvm
+# Deeper and Better understanding Java Virtual Machine.
 
-## Basic Part
+## Basic Part（Java虚拟机基本原理）
 
 ### [1.  Java代码是怎么运行的？](basic/1.How-java-code-runs.md)
 
@@ -21,3 +21,12 @@
 ### [9.  JVM如何实现inkovedynamic（下）？](basic/9.how-jvm-implement-invokedynamic.md)
 
 ### [10.  java对象的内存布局](basic/10.memory-distribution-of-java-object.md)
+
+### [11.  垃圾回收（上）](basic/11.garbage-collection.md)
+
+### [12.  垃圾回收（下）](basic/12.garbage-collection.md)
+
+
+## Effective Compiling（高效编译） 
+
+### [13.  常用工具介绍](advanced/13.common-tools.md)
