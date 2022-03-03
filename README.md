@@ -8,5 +8,5 @@
 
 ### [3.  Java虚拟机是如何加载Java类？](basic/3.how-jvm-load-classes.md)
 
-### [下一篇：4.  JVM如何执行方法调用（上）？](basic/4.how-jvm-execute-method-invocation.md)
+### [4.  JVM如何执行方法调用（上）？](basic/4.how-jvm-execute-method-invocation.md)
 
