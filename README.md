@@ -12,3 +12,6 @@
 
 ### [5.  JVM如何执行方法调用（下）？](basic/5.how-jvm-execute-method-invocation.md)
 
+### [6.  JVM如何处理异常？](basic/6.how-jvm-handle-exception.md)
+
+### [7.  JVM如何实现反射？](basic/7.how-jvm-implement-reflection.md)
