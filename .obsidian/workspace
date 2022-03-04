@@ -91,13 +91,13 @@
   "lastOpenFiles": [
     "README.md",
     "advanced/13.common-tools.md",
-    "basic/13.common-tools.md",
+    "advanced/14.java-memory-model.md",
+    "14.java_memory_model.md",
+    "basic/4.how-jvm-execute-method-invocation.md",
+    "basic/3.how-jvm-load-classes.md",
     "basic/12.garbage-collection.md",
+    "basic/13.common-tools.md",
     "basic/11.garbage-collection.md",
-    "basic/10.memory-distribution-of-java-object.md",
-    "basic/9.how-jvm-implement-invokedynamic.md",
-    "basic/8.how-jvm-implement-invokedynamic.md",
-    "9.how-jvm-implement-invokedynamic.md",
-    "basic/7.how-jvm-implement-reflection.md"
+    "basic/10.memory-distribution-of-java-object.md"
   ]
 }
