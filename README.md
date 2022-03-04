@@ -35,3 +35,7 @@
 
 ### [15.  Java虚拟机如何实现synchronized？](advanced/15.how-jvm-implements-synchronized.md)
 
+### [16.  Java语法糖与Java编译器](advanced/16.java-syntax-sugar-and-compiler.md)
+
+### [17.  即时编译（上）](advanced/17.jit.md)
+

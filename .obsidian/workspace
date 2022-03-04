@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "advanced/13.common-tools.md",
+            "file": "advanced/17.jit.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "advanced/13.common-tools.md",
+                "file": "advanced/17.jit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3547902340b34de7",
   "lastOpenFiles": [
+    "advanced/17.jit.md",
+    "README.md",
+    "advanced/16.java-syntax-sugar-and-compiler.md",
+    "advanced/15.how-jvm-implements-synchronized.md",
     "advanced/13.common-tools.md",
     "advanced/14.java-memory-model.md",
-    "advanced/15.how-jvm-implements-synchronized.md",
-    "README.md",
     "basic/8.how-jvm-implement-invokedynamic.md",
     "basic/7.how-jvm-implement-reflection.md",
     "14.java_memory_model.md",
-    "basic/4.how-jvm-execute-method-invocation.md",
-    "basic/3.how-jvm-load-classes.md",
-    "basic/12.garbage-collection.md"
+    "basic/4.how-jvm-execute-method-invocation.md"
   ]
 }
