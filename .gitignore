@@ -1,3 +1,5 @@
- .obsidian
+.obsidian
 .idea
 .trash
+*.json
+.obsidian/workspace
