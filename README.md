@@ -42,3 +42,10 @@
 ### [18  即时编译（下）](advanced/18.jit.md)
 
 ### [19.  即时编译器的中间表达形式](advanced/19.intermediate-representation-of-jit-compiler.md)
+
+### [20.  java字节码](advanced/20.java-bytecode.md)
+
+### [21.  方法内联（上）](advanced/21.method-inner-relation.md)
+
+### [22.  方法内联（下）](advanced/22.method-inner-relation.md)
+
