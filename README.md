@@ -49,3 +49,6 @@
 
 ### [22.  方法内联（下）](advanced/22.method-inner-relation.md)
 
+### [23.  Hotspot虚拟机intrinsic](advanced/23.hotspot-jvm-intrinsic.md)
+
+### [24.  逃逸分析](advanced/24.escape-analize.md)
