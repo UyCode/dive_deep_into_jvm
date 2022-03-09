@@ -26,7 +26,6 @@
 
 ### [12.  垃圾回收（下）](basic/12.garbage-collection.md)
 
-
 ## Effective Compiling（高效编译） 
 
 ### [13.  常用工具介绍](advanced/13.common-tools.md)
@@ -52,7 +51,9 @@
 ### [23.  Hotspot虚拟机intrinsic](advanced/23.hotspot-jvm-intrinsic.md)
 
 ### [24.  逃逸分析](advanced/24.escape-analize.md)
+
 ## Code Optimization（代码优化）
+
 ### [25.  字段访问相关的优化](opt/25.optimization-of-field-access.md)
 
 ### [26.  循环优化](opt/26.optimization-of-loops.md)
@@ -62,3 +63,16 @@
 ### [28.  注解处理器](opt/28.annotation-handler.md)
 
 ### [29.  基准测试框架JMH（上）](opt/29.benchmarking-framework-jmh.md)
+
+### [30.  基准测试框架JMH（下）](opt/30.benchmarking-framework-jmh.md)
+
+### [31.  Java虚拟机监控和诊断工具（命令行篇）](opt/31.java-diagnose-and-monitor-tools_console.md)
+
+### [32.  Java虚拟机监控和诊断工具（图形化界面篇）](opt/32.java-diagnose-and-monitor-tools_gui.md)
+
+### [33.  JNI运行机制](opt/33.jni-operating-mechanism.md)
+
+### [34.  JavaAgent与字节码注入](opt/34.java-agent-and-bytecode-injection.md)
+
+## Black-Techs in Java (黑科技)
+
