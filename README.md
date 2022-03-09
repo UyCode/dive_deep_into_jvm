@@ -1,6 +1,6 @@
-# Deeper and Better understanding Java Virtual Machine.
+<h1 align="center">Deeper and Better understanding Java Virtual Machine.</h1>
 
-## Basic Part（Java虚拟机基本原理）
+<h2 align="center">Basic Part（Java虚拟机基本原理）</h2>
 
 ### [1.  Java代码是怎么运行的？](basic/1.How-java-code-runs.md)
 
@@ -26,7 +26,7 @@
 
 ### [12.  垃圾回收（下）](basic/12.garbage-collection.md)
 
-## Effective Compiling（高效编译） 
+<h2 align="center">Effective Compiling（高效编译） </h2>
 
 ### [13.  常用工具介绍](advanced/13.common-tools.md)
 
@@ -52,7 +52,7 @@
 
 ### [24.  逃逸分析](advanced/24.escape-analize.md)
 
-## Code Optimization（代码优化）
+<h2 align="center">Code Optimization（代码优化）</h2>
 
 ### [25.  字段访问相关的优化](opt/25.optimization-of-field-access.md)
 
@@ -74,5 +74,5 @@
 
 ### [34.  JavaAgent与字节码注入](opt/34.java-agent-and-bytecode-injection.md)
 
-## Black-Techs in Java (黑科技)
+<h2 align="center">Black-Techs in Java (黑科技)</h2>
 
