@@ -52,3 +52,13 @@
 ### [23.  Hotspot虚拟机intrinsic](advanced/23.hotspot-jvm-intrinsic.md)
 
 ### [24.  逃逸分析](advanced/24.escape-analize.md)
+## Code Optimization（代码优化）
+### [25.  字段访问相关的优化](opt/25.optimization-of-field-access.md)
+
+### [26.  循环优化](opt/26.optimization-of-loops.md)
+
+### [27.   向量化](opt/27.vectorization.md)
+
+### [28.  注解处理器](opt/28.annotation-handler.md)
+
+### [29.  基准测试框架JMH（上）](opt/29.benchmarking-framework-jmh.md)
