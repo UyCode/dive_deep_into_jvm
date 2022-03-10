@@ -76,3 +76,8 @@
 
 ## Black-Techs in Java (黑科技)
 
+### [35.  用Java编译Java](etc/35.compile-java-with-java.md)
+
+### [36.  Truffle:语言实现框架](etc/36.lang-impl-framework-truffle.md)
+
+### [37.  SubstrateVM: AOT编译框架](etc/37.substrateVM.md)
