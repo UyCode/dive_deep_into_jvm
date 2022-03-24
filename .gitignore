@@ -3,3 +3,4 @@
 .trash
 *.json
 .obsidian/workspace
+.test-for-github
